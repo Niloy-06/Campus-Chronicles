@@ -1,0 +1,11 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Debug files
+*.stackdump

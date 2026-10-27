@@ -1,0 +1,13 @@
+========================================
+              INSTRUCTIONS
+========================================
+
+The game consists of FIVE locations and TEN interactable characters. 
+Through interacting with them and passing their tests, player can gain clues. 
+Clues will lead what to do next, where to go. 
+Clues are crucial till the end of the game. 
+
+Player can start from any location and solve any task they like. 
+But to trigger the final showdown, all the clues must be obtained.
+
+Remember, your CHOICE matters.

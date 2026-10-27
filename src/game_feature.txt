@@ -1,0 +1,31 @@
+========================================
+              GAME FEATURES
+========================================
+
+1.  Story-driven mystery investigation
+
+2.  Team of three detectives
+
+3.  Team leader election system
+
+4.  Multiple locations around the campus
+
+5.  NPC interactions
+
+6.  Puzzles and riddles
+
+7.  Evidence and clue collection
+
+8.  Mini-games
+
+9.  Wrestling-style final showdown
+
+10. Detective's Journal
+
+11. Clue Board
+
+12. Inventory system
+
+13. Multiple investigation outcomes
+
+14. Save and Load system

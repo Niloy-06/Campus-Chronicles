@@ -1,0 +1,29 @@
+========================================
+            ABOUT THE PROJECT
+========================================
+
+The Campus Chronicles was developed as
+a C programming project.
+
+The project demonstrates several core
+programming concepts, including:
+
+1.  Variables and operators
+2.  Conditional statements
+3.  Loops
+4.  Functions
+5.  Arrays and strings
+6.  Structures
+7.  Pointers
+8.  Enumerations
+9.  File handling
+10. Dynamic memory allocation
+11. Header files
+12. Preprocessor directives
+13. Modular programming
+14. Makefile-based compilation
+
+The game is designed to demonstrate how
+fundamental C programming concepts can
+be combined to create an interactive
+story-driven application.
