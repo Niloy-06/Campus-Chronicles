@@ -126,12 +126,6 @@ The **Makefile** is used to compile the multiple source files into the final exe
 Open a terminal in the project directory and run:
 
 ```bash
-make
-```
-
-If your environment uses MinGW Make:
-
-```bash
 mingw32-make
 ```
 
@@ -142,18 +136,6 @@ After compilation:
 ```bash
 CampusChronicles.exe
 ```
-
-## Team
-
-Developed by:
-
-- **Eshrak Hasan Niloy**
-- **Arman Rafi**
-- **Mobasshira Sadia Sakal**
-
-**Department of Computer Science & Engineering**  
-**Khulna University of Engineering & Technology (KUET)**  
-**Academic Year: 2026**
 
 ## Project Goal
 
